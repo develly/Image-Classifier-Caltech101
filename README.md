@@ -1,5 +1,5 @@
 # Image-Classifier-Caltech101
-간단한 이미지 분류기 생성 및 InceptionV3를 이용한 이미지 분류기 생성
+InceptionV3를 이용한 간단한 이미지 분류기 생성
 
 ## Requirement
 * Keras 2.4.3
